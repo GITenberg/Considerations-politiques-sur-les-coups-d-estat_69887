@@ -1,0 +1,25 @@
+_repo: Considerations-politiques-sur-les-coups-d-estat_69887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Naudé, Gabriel
+    gutenberg_agent_id: '55477'
+    url: http://www.gutenberg.org/2009/agents/55477
+description: ''
+gutenberg_issued: '2023-01-28'
+identifiers:
+  gutenberg: '69887'
+language: fr
+pgterms:marc904: https://archive.org/details/bub_gb_luEvmsHlvL8C
+pgterms:marc905: 20200919051659naud
+pgterms:marc906: '1667'
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '"Sur la copie de Rome",1667.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Considerations politiques sur les coups d'estat
+url: http://www.gutenberg.org/ebooks/69887
